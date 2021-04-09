@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1383984" started-at="2021-02-19T16:45:49Z" finished-at="2021-02-19T17:08:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1383984" started-at="2021-02-19T16:45:49Z" finished-at="2021-02-19T17:08:53Z">
+      <class name="com.qa.testcases.AncillaryChargeCreation">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="setExtent" is-config="true" duration-ms="249" started-at="2021-02-19T16:45:49Z" finished-at="2021-02-19T16:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="setUp" is-config="true" duration-ms="19840" started-at="2021-02-19T16:45:49Z" finished-at="2021-02-19T16:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleting()[pri:1, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="deleting" duration-ms="299464" started-at="2021-02-19T16:46:09Z" finished-at="2021-02-19T16:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleting -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="tearDown" is-config="true" duration-ms="842" started-at="2021-02-19T16:51:08Z" finished-at="2021-02-19T16:51:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deleting status=SUCCESS method=AncillaryChargeCreation.deleting()[pri:1, instance:com.qa.testcases.AncillaryChargeCreation@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="setUp" is-config="true" duration-ms="18650" started-at="2021-02-19T16:51:09Z" finished-at="2021-02-19T16:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="customerPayment()[pri:2, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="customerPayment" duration-ms="288157" started-at="2021-02-19T16:51:28Z" finished-at="2021-02-19T16:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerPayment -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="tearDown" is-config="true" duration-ms="811" started-at="2021-02-19T16:56:16Z" finished-at="2021-02-19T16:56:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=customerPayment status=SUCCESS method=AncillaryChargeCreation.customerPayment()[pri:2, instance:com.qa.testcases.AncillaryChargeCreation@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="setUp" is-config="true" duration-ms="17363" started-at="2021-02-19T16:56:17Z" finished-at="2021-02-19T16:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="multiplePaymentsCharges()[pri:3, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="multiplePaymentsCharges" duration-ms="343879" started-at="2021-02-19T16:56:34Z" finished-at="2021-02-19T17:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplePaymentsCharges -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="tearDown" is-config="true" duration-ms="989" started-at="2021-02-19T17:02:18Z" finished-at="2021-02-19T17:02:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=multiplePaymentsCharges status=SUCCESS method=AncillaryChargeCreation.multiplePaymentsCharges()[pri:3, instance:com.qa.testcases.AncillaryChargeCreation@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="setUp" is-config="true" duration-ms="17067" started-at="2021-02-19T17:02:19Z" finished-at="2021-02-19T17:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="writeOffTotal_editing()[pri:4, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="writeOffTotal_editing" duration-ms="312439" started-at="2021-02-19T17:02:36Z" finished-at="2021-02-19T17:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeOffTotal_editing -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="tearDown" is-config="true" duration-ms="828" started-at="2021-02-19T17:07:49Z" finished-at="2021-02-19T17:07:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=writeOffTotal_editing status=SUCCESS method=AncillaryChargeCreation.writeOffTotal_editing()[pri:4, instance:com.qa.testcases.AncillaryChargeCreation@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="setUp" is-config="true" duration-ms="21495" started-at="2021-02-19T17:07:49Z" finished-at="2021-02-19T17:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="chargeCreation()[pri:5, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="chargeCreation" duration-ms="36030" started-at="2021-02-19T17:08:11Z" finished-at="2021-02-19T17:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chargeCreation -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="tearDown" is-config="true" duration-ms="764" started-at="2021-02-19T17:08:47Z" finished-at="2021-02-19T17:08:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=chargeCreation status=SUCCESS method=AncillaryChargeCreation.chargeCreation()[pri:5, instance:com.qa.testcases.AncillaryChargeCreation@20322d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.qa.testcases.AncillaryChargeCreation@20322d26]" name="endReport" is-config="true" duration-ms="5076" started-at="2021-02-19T17:08:48Z" finished-at="2021-02-19T17:08:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.qa.testcases.AncillaryChargeCreation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
